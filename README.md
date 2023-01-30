@@ -1,5 +1,5 @@
 # react-crud-project
-Projeto desenvolvido do curso React the complete guide
+Projeto desenvolvido no curso React the complete guide
 * Cadastro
 * Delete
 * Listagem
